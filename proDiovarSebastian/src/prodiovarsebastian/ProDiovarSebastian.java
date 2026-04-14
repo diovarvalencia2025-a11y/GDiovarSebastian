@@ -18,7 +18,9 @@ public class ProDiovarSebastian {
     
     
         public static void saludar() {
-    System.out.println("CUIDADO: Cambio del Usuario 2");
+
+    System.out.println("CUIDADO: Cambio del Usuario 1");
+
 }
    
    public static void despedir() {
