@@ -13,6 +13,10 @@ public class ProDiovarSebastian {
         public static void saludar() {
     System.out.println("Hola mundo!");
 }
+   
+   public static void despedir() {
+    System.out.println("Hasta luego!");
+}     
         
        
     }
