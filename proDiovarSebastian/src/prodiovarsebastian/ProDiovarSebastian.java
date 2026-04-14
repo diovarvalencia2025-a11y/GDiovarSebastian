@@ -7,6 +7,13 @@ public class ProDiovarSebastian {
     
     public static void main(String[] args) {
         
+        saludar();
+        despedir();
+        mensajeRemoto();
+        cuartoCambio();   
+        
+        
+        
     }  
     
     
@@ -21,6 +28,10 @@ public class ProDiovarSebastian {
      public static void mensajeRemoto() {
     System.out.println("Este cambio va directo a la nube");
 }  
+     
+     public static void cuartoCambio(){
+         System.out.println(" Final Final no trabajo mas"); 
+     }
     }
     
 
