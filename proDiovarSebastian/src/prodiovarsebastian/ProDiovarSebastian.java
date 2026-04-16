@@ -6,17 +6,20 @@ public class ProDiovarSebastian {
 
     
     public static void main(String[] args) {
+
+
+
         
         saludar();
         despedir();
         mensajeRemoto();
         cuartoCambio();   
-        
-        
+              
         
     }  
     
-    
+
+   
         public static void saludar() {
 
     System.out.println("CUIDADO: Cambio del Usuario 1");
@@ -33,7 +36,14 @@ public class ProDiovarSebastian {
      
      public static void cuartoCambio(){
          System.out.println(" Final Final no trabajo mas"); 
+
+
      }
+
+
+ public static void mensajeTrunk() {
+    System.out.println("Modificación del segundo usuario en el trunk");
+}
     }
     
 
